@@ -16,11 +16,11 @@ Run the database with json-server db.json --port 4000
 ![alt text](https://i.postimg.cc/rmfx72ct/react-redux.png)
 
 ## Tools
-1-React Redux
-2-Reducers
-3-Combine reducers
-4-Axios
-5-Chrome tools
+- React Redux
+- Reducers
+- Combine reducers
+- Axios
+- Chrome tools
 
 
 ## Available Scripts
